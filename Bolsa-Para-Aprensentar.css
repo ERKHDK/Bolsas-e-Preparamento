@@ -1,0 +1,40 @@
+#奨学金{
+    display: flex;
+    justify-self: center;
+    font-size: 4.5rem;
+}
+
+.Categoria{
+    justify-self: center;
+
+    width: calc(100% - 1rem);
+
+    margin: 1rem;
+
+    border: 0.2rem solid black;
+}
+#Categoria-Titulo{
+    display: flex;
+    justify-self: center;
+    font-size: 2.1rem;
+}
+
+#Nome{
+    font-size: 2rem;
+}
+
+table, tr, th, td{
+    border: 0.2rem solid black;
+    border-collapse: collapse;
+
+    word-break: break-all;
+    line-break: loose;
+}
+th, td{
+    padding: 0.5rem;
+}
+table{
+    margin: 1rem;
+    justify-self: center;
+    width: calc(100% - 1rem);
+}
