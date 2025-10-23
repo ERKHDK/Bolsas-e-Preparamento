@@ -1,6 +1,7 @@
 #奨学金{
     display: flex;
     justify-self: center;
+    justify-content: center;
     font-size: 4.5rem;
 }
 
